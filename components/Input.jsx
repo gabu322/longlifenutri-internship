@@ -1,3 +1,9 @@
+/**************************************************************
+This component is utilized in certain personal projects;
+However, it remains unfinished, which is why it lacks comments
+at this time.
+**************************************************************/
+
 'use client';
 
 import { useState, useEffect } from 'react';
